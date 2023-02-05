@@ -7,7 +7,8 @@ module.exports = {
     extend: {
       backgroundImage: {
         'chair': "url('/src/assets/images/bg.png')",
-        'appointment':"url('/src/assets/images/appointment.png')"
+        'appointment': "url('/src/assets/images/appointment.png')",
+        'ft': "url('/src/assets/images/footer.png')"
       },
     },
   },
